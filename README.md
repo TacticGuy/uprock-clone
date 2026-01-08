@@ -1,20 +1,13 @@
 📌 Uprock-Clone
-
 A clone of the hero section of the Uprock companion website — built with modern frontend tooling and deployed live on Vercel. 
-GitHub
 
 🧠 About
-
 This project replicates the hero section of the official Uprock companion site. It’s intended as a UI practice / frontend portfolio piece showing how to rebuild a real design using HTML, CSS (Tailwind), and TypeScript. It uses Vite for fast development and can be deployed easily (e.g., on Vercel). 
-GitHub
 
 Live demo:
 🌐 https://uprock-clone-2pw9.vercel.app/
- 
-GitHub
 
 🚀 Features
-
 ✔ Clean and responsive hero UI
 ✔ Built with modern tooling: Vite + Tailwind CSS + TypeScript
 ✔ Deploy-ready (Vercel)
@@ -22,15 +15,15 @@ GitHub
 
 🗂 Project Structure
 uprock-clone/
-├── public/                # Static assets
-├── src/                   # Application source
-├── components/            # Reusable UI components
-├── index.html             # Entry HTML
-├── package.json           # Dependencies & scripts
-├── tailwind.config.js     # Tailwind CSS config
-├── tsconfig.json          # TypeScript config
-├── vite.config.ts         # Vite config
-└── README.md              # Project description
+public/                # Static assets
+src/                   # Application source
+components/            # Reusable UI components
+index.html             # Entry HTML
+package.json           # Dependencies & scripts
+tailwind.config.js     # Tailwind CSS config
+tsconfig.json          # TypeScript config
+vite.config.ts         # Vite config
+README.md              # Project description
 
 🛠 Tech Stack
 Tool / Framework	Purpose
