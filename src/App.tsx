@@ -1,5 +1,5 @@
-import Hero from '../Hero';
-import './src/components/lib/globals.css';
+import Hero from './components/Hero';
+import './globals.css';
 function App() {
   return (
     <div className="min-h-screen">
