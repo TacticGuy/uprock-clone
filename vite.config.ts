@@ -6,7 +6,7 @@ import { defineConfig } from "vite";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: ProcessingInstruction.env.VITE_BASE_PATH || "/uprock-clone",
+  base: process.env.VITE_BASE_PATH || "/uprock-clone",
   build: {
     minify: false,
     sourcemap: false,
