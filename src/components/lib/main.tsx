@@ -4,7 +4,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 import App from "./App.tsx";
 import NotFound from "./NotFound.tsx";
-import "./globals.css";
+import "./src/components/lib/globals.css";
 
 // CODEROCKET
 const setupRouteChangeBridge = () => {
