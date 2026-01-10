@@ -1,71 +1,38 @@
-📌 Uprock-Clone
-A clone of the hero section of the Uprock companion website — built with modern frontend tooling and deployed live on Vercel. 
-
-🧠 About
-This project replicates the hero section of the official Uprock companion site. It’s intended as a UI practice / frontend portfolio piece showing how to rebuild a real design using HTML, CSS (Tailwind), and TypeScript. It uses Vite for fast development and can be deployed easily (e.g., on Vercel). 
-
-Live demo:
-🌐 https://uprock-clone-2pw9.vercel.app/
+UpRock Clone
+This is a simple clone of the UpRock website UI that I built for practice. I wanted to try and recreate their landing page design to get better at frontend development and styling.
 
 🚀 Features
-✔ Clean and responsive hero UI
-✔ Built with modern tooling: Vite + Tailwind CSS + TypeScript
-✔ Deploy-ready (Vercel)
-✔ Friendly structure for expansion
+Responsive landing page design.
 
-🗂 Project Structure
-uprock-clone/
-public/                # Static assets
-src/                   # Application source
-components/            # Reusable UI components
-index.html             # Entry HTML
-package.json           # Dependencies & scripts
-tailwind.config.js     # Tailwind CSS config
-tsconfig.json          # TypeScript config
-vite.config.ts         # Vite config
-README.md              # Project description
+Clean and modern UI (trying to match the original).
 
-🛠 Tech Stack
-Tool / Framework	Purpose
-Vite	Fast dev server & build tool
-TypeScript	Strongly typed JavaScript
-Tailwind CSS	Utility-first styling
-HTML	Project structure
-🏁 Getting Started
-Requirements
+Built with basic web technologies.
 
-Make sure you have Node.js (>=14) installed.
+🛠️ Tech Stack
+HTML5 - For the structure.
 
-Installation
+CSS3 - For the styling and layout.
 
-Clone the repo:
+JavaScript - For any basic interactions.
+
+📸 Screenshots
+(You can add a screenshot of your project here later)
+
+⚙️ How to run it
+Download or clone the repo:
+
+Bash
 
 git clone https://github.com/TacticGuy/uprock-clone.git
-cd urock-clone
+Open the folder.
 
+Just double-click the index.html file to see it in your browser.
 
-Install dependencies:
+📝 Learning Notes
+This was a cool project to work on because I learned more about:
 
-npm install
+How to layout complex sections using Flexbox/Grid.
 
-Development
-Run the dev server:
+Making sure the site doesn't break on mobile screens.
 
-npm run dev
-
-This will launch a hot-reloading server (usually at localhost:5173).
-
-Build
-To create a production-ready build:
-
-npm run build
-
-⭐ Deployment
-This project is ready for Vercel deployments:
-1.Connect your GitHub repo to Vercel.
-2.Set the build command to: npm run build
-3.Set the output directory to: dist/
-4.Deploy!
-
-🤝 Contributing
-Contributions and improvements are welcome — feel free to raise issues or pull requests.
+Matching colors and fonts from a real-world site.
