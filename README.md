@@ -20,10 +20,11 @@ JavaScript - For any basic interactions.
 
 ⚙️ How to run it
 Download or clone the repo:
-
+```
 Bash
 
 git clone https://github.com/TacticGuy/uprock-clone.git
+```
 Open the folder.
 
 Just double-click the index.html file to see it in your browser.
