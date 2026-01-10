@@ -4,14 +4,14 @@
 This is a simple clone of the UpRock website UI that I built for practice. I wanted to try and recreate their landing page design to get better at frontend development and styling.
 ---
 🚀 Features
--> Responsive landing page design.
--> Clean and modern UI (trying to match the original).
+-> Responsive landing page design.\
+-> Clean and modern UI (trying to match the original).\
 
 Built with basic web technologies.
 ---
 🛠️ Tech Stack
--> HTML5 - For the structure.
--> CSS3 - For the styling and layout.
+-> HTML5 - For the structure.\
+-> CSS3 - For the styling and layout.\
 -> JavaScript - For any basic interactions.
 ---
 ⚙️ Tooling & Config 
