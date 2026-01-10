@@ -10,10 +10,10 @@ This is a simple clone of the UpRock website UI that I built for practice. I wan
 
 Built with basic web technologies.
 ---
-🛠️ Tech Stack
+🛠️ Tech Stack  
 -> HTML5 - For the structure.  
 -> CSS3 - For the styling and layout.  
--> JavaScript - For any basic interactions.  
+-> JavaScript - For any basic interactions.   
 
 ---
 ⚙️ Tooling & Config 
