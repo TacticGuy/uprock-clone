@@ -4,21 +4,27 @@
 This is a simple clone of the UpRock website UI that I built for practice. I wanted to try and recreate their landing page design to get better at frontend development and styling.
 ---
 🚀 Features
--> Responsive landing page design.\
--> Clean and modern UI (trying to match the original).\
+-> Responsive landing page design.  
+
+-> Clean and modern UI (trying to match the original).  
 
 Built with basic web technologies.
 ---
 🛠️ Tech Stack
--> HTML5 - For the structure.\
--> CSS3 - For the styling and layout.\
--> JavaScript - For any basic interactions.
+-> HTML5 - For the structure.  
+-> CSS3 - For the styling and layout.  
+-> JavaScript - For any basic interactions.  
+
 ---
 ⚙️ Tooling & Config 
--> TypeScript — appears to be used (repo shows TypeScript config files).
--> Tailwind CSS — Tailwind configuration file is present (tailwind.confg.js).
--> Vite — For development server and build tooling (vite.config.ts).
--> Node/NPM — Managed by package.json (likely used for Tailwind + Vite).
+-> TypeScript — appears to be used (repo shows TypeScript config files).  
+
+-> Tailwind CSS — Tailwind configuration file is present (tailwind.confg.js).  
+
+-> Vite — For development server and build tooling (vite.config.ts).  
+
+-> Node/NPM — Managed by package.json (likely used for Tailwind + Vite).  
+
 ---
 ⚙️ How to run it
 -> Download or clone the repo:
