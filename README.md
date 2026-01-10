@@ -1,65 +1,86 @@
-
-**UpRock Clone**
+# **UpRock Clone**
 
 This is a simple clone of the UpRock website UI that I built for practice. I wanted to try and recreate their landing page design to get better at frontend development and styling.
----
-🚀 Features
--> Responsive landing page design.  
-
--> Clean and modern UI (trying to match the original).  
-
-Built with basic web technologies.
----
-🛠️ Tech Stack  
--> HTML5 - For the structure.  
--> CSS3 - For the styling and layout.  
--> JavaScript - For any basic interactions.   
 
 ---
-⚙️ Tooling & Config 
--> TypeScript — appears to be used (repo shows TypeScript config files).  
 
--> Tailwind CSS — Tailwind configuration file is present (tailwind.confg.js).  
+## 🚀 Features
 
--> Vite — For development server and build tooling (vite.config.ts).  
-
--> Node/NPM — Managed by package.json (likely used for Tailwind + Vite).  
+- Responsive landing page design
+- Clean and modern UI (trying to match the original)
+- Built with basic web technologies
 
 ---
-⚙️ How to run it
--> Download or clone the repo:
-```
+
+## 🛠️ Tech Stack
+
+- HTML5 - For the structure
+- CSS3 - For the styling and layout
+- JavaScript - For any basic interactions
+
+---
+
+## ⚙️ Tooling & Config
+
+- TypeScript — appears to be used (repo shows TypeScript config files)
+- Tailwind CSS — Tailwind configuration file is present (tailwind.config.js)
+- Vite — For development server and build tooling (vite.config.ts)
+- Node/NPM — Managed by package.json (likely used for Tailwind + Vite)
+
+---
+
+## ⚙️ How to Run It
+
+### Download or clone the repo:
+
+```bash
 git clone https://github.com/TacticGuy/uprock-clone.git
 ```
--> Go inside the project folder.
-```
+
+### Go inside the project folder:
+
+```bash
 cd uprock-clone
 ```
--> Make sure you have Node.js (v14+) installed. Then run: 
-```
+
+### Install dependencies:
+
+Make sure you have Node.js (v14+) installed. Then run:
+
+```bash
 npm install
 ```
--> This installs all required packages like Vite, Tailwind, etc.
--> Start the dev server
-```
+
+This installs all required packages like Vite, Tailwind, etc.
+
+### Start the dev server:
+
+```bash
 npm run dev
 ```
--> That will start a local development server.
--> Open this in your browser to see the webpage.
+
+That will start a local development server. Open this in your browser:
+
 ```
 http://localhost:3000
 ```
--> If you want a production build, run:
-```
+
+### Production build:
+
+```bash
 npm run build
 ```
--> After building, you can preview:
-```
+
+### Preview the build:
+
+```bash
 npm run preview
-``` 
+```
+
 ---
-📝 Learning Notes
--> This project uses Vite as the dev tool + bundler.
--> Tailwind CSS handles styling.
--> You’ll need Node.js & npm installed first.
----
+
+## 📝 Learning Notes
+
+- This project uses Vite as the dev tool + bundler
+- Tailwind CSS handles styling
+- You'll need Node.js & npm installed first
