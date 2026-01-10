@@ -1,4 +1,4 @@
----
+
 **UpRock Clone**
 
 This is a simple clone of the UpRock website UI that I built for practice. I wanted to try and recreate their landing page design to get better at frontend development and styling.
